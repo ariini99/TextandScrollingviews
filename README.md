@@ -1,14 +1,10 @@
 # Tasks
 
-**tasks**
 
-![Screenshot](scrollingtext.gif)
 
 **coding-challenge**
 
-![Screenshot](codingchallenge.png)
+![Screenshot](codingchallengescrollingtext.png)
 
-**Homework**
 
-![Screenshot](scrollingtext-homework.gif)
 
