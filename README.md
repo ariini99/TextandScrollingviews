@@ -4,7 +4,7 @@
 
 **coding-challenge**
 
-![Screenshot](codingchallengescrollingtext.png)
+![Screenshot](codingchallangescrollingtext.png)
 
 
 
